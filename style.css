@@ -1,0 +1,47 @@
+.profile-pic {
+	margin-top: 40px;
+}
+
+.navbar-text {
+	float: right;
+}
+
+body {
+	padding-top: 70px;
+}
+
+
+h1,h3 {
+	font-family: 'Dancing Script', cursive;
+	padding-right: 10px;
+}
+
+body {
+	background: linear-gradient(to bottom, gray, white, white);
+	
+}
+
+.footer1 {
+	font-family: 'Almendra Display', cursive;
+}
+
+.quote {
+	margin-top: 20px;
+}
+
+h2 {
+	font-family: 'Dynalight', cursive;
+}
+
+.footer {
+	color: red ;
+	opacity: 0.4;
+}
+
+
+.contact-info {
+	font-family: 'Signika', sans-serif;
+}
+
+
+
